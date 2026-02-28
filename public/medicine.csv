@@ -1,0 +1,51 @@
+name,company,price_before,discount,price_after,pack_size,availability,side_effects,primary_uses,description,generic_name,brand_names,diseases_treated
+Zestril,Martin Dow,687.21,20,549.77,20 tablets,No,"Blurred vision, anxiety",Hypertension,Effective for treating nerve pain and seizures.,Lisinopril,Zestril,Pain
+Zeegap,Bayer,107.03,10,96.33,10 tablets,No,"Dry mouth, fatigue",Inflammation,Effective for treating nerve pain and seizures.,Pregabalin,Zeegap,Hypertension
+Panadol,Sanofi,101.18,15,86.0,30 tablets,No,"Nausea, dizziness, headache",Neuropathic pain,Reduces inflammation and pain in the body.,Acetaminophen,Panadol,Infections
+Augmentin,Bayer,213.64,15,181.59,20 tablets,No,"Drowsiness, diarrhea",Bacterial infections,Commonly used pain reliever and fever reducer.,Amoxicillin + Clavulanate,Augmentin,Anxiety
+Brufen,Pfizer,785.26,20,628.21,10 tablets,No,"Drowsiness, diarrhea",Bacterial infections,Used to treat high blood pressure and prevent heart attacks.,Ibuprofen,Brufen,Pain
+Flagyl,Sanofi,101.8,5,96.71,30 tablets,Yes,"Stomach pain, rash",Diabetes,Effective for treating nerve pain and seizures.,Metronidazole,Flagyl,Epilepsy
+Gravinate,Getz Pharma,198.66,10,178.79,30 tablets,No,"Drowsiness, diarrhea",Bacterial infections,Effective for treating nerve pain and seizures.,Dimenhydrinate,Gravinate,Diabetes
+Losec,Martin Dow,614.85,20,491.88,30 tablets,Yes,"Drowsiness, diarrhea",Bacterial infections,Commonly used pain reliever and fever reducer.,Omeprazole,Losec,Epilepsy
+Metformin,Bayer,370.67,5,352.14,30 tablets,Yes,"Insomnia, constipation",Motion sickness,Commonly used pain reliever and fever reducer.,Metformin,Metformin,Pain
+Neurobion,Abbott,531.95,5,505.35,20 tablets,No,"Blurred vision, anxiety",Bacterial infections,Effective for treating nerve pain and seizures.,Vitamin B Complex,Neurobion,Diabetes
+Omeprazole,Sanofi,309.34,15,262.94,20 tablets,No,"Blurred vision, anxiety",Diabetes,Effective for treating nerve pain and seizures.,Omeprazole,Omeprazole,Asthma
+Paracetamol,GSK,785.12,20,628.1,20 tablets,No,"Insomnia, constipation",Inflammation,Reduces inflammation and pain in the body.,Acetaminophen,Paracetamol,Diabetes
+Rivotril,Novartis,499.15,5,474.19,20 tablets,Yes,"Insomnia, constipation",Gastrointestinal infections,Used to treat high blood pressure and prevent heart attacks.,Clonazepam,Rivotril,Asthma
+Surbex Z,Abbott,166.59,20,133.27,10 tablets,No,"Stomach pain, rash",Fever and pain relief,Commonly used pain reliever and fever reducer.,Multivitamins,Surbex Z,Epilepsy
+Telfast,GSK,402.98,20,322.38,20 tablets,No,"Insomnia, constipation",Fever and pain relief,An antibiotic used to treat various infections.,Fexofenadine,Telfast,Pain
+Ventolin,Bayer,748.78,20,599.02,30 tablets,Yes,"Drowsiness, diarrhea",Motion sickness,Antibiotic effective against anaerobic bacteria.,Salbutamol,Ventolin,Anxiety
+Xanax,GSK,713.54,15,606.51,30 tablets,No,"Drowsiness, diarrhea",Hypertension,Reduces inflammation and pain in the body.,Alprazolam,Xanax,Diabetes
+Zocor,Abbott,452.43,20,361.94,30 tablets,Yes,"Dry mouth, fatigue",Diabetes,Used to treat high blood pressure and prevent heart attacks.,Simvastatin,Zocor,Epilepsy
+Lipitor,Bayer,379.71,10,341.74,10 tablets,Yes,"Nausea, dizziness, headache",Bacterial infections,Reduces inflammation and pain in the body.,Atorvastatin,Lipitor,Infections
+Plavix,Getz Pharma,415.75,10,374.18,10 tablets,No,"Insomnia, constipation",GERD,Commonly used pain reliever and fever reducer.,Clopidogrel,Plavix,Epilepsy
+Cozaar,Martin Dow,193.14,20,154.51,10 tablets,Yes,"Drowsiness, diarrhea",Hypertension,Used to treat high blood pressure and prevent heart attacks.,Losartan,Cozaar,Depression
+Lasix,Pfizer,795.01,10,715.51,30 tablets,Yes,"Dry mouth, fatigue",Bacterial infections,Reduces inflammation and pain in the body.,Furosemide,Lasix,Epilepsy
+Nexium,Abbott,225.61,20,180.49,30 tablets,Yes,"Dry mouth, fatigue",Inflammation,Antibiotic effective against anaerobic bacteria.,Esomeprazole,Nexium,Anxiety
+Ciproxin,Pfizer,269.05,20,215.24,10 tablets,Yes,"Dry mouth, fatigue",Gastrointestinal infections,Reduces inflammation and pain in the body.,Ciprofloxacin,Ciproxin,Infections
+Avamys,Sanofi,279.81,20,223.85,20 tablets,No,"Insomnia, constipation",Hypertension,An antibiotic used to treat various infections.,Fluticasone,Avamys,Diabetes
+Actrapid,Abbott,158.44,10,142.6,20 tablets,Yes,"Dry mouth, fatigue",Gastrointestinal infections,Effective for treating nerve pain and seizures.,Insulin,Actrapid,Depression
+Betnovate,Getz Pharma,568.64,5,540.21,10 tablets,No,"Dry mouth, fatigue",Gastrointestinal infections,Effective for treating nerve pain and seizures.,Betamethasone,Betnovate,Anxiety
+Calpol,Bayer,126.46,10,113.81,30 tablets,No,"Dry mouth, fatigue",Neuropathic pain,Antibiotic effective against anaerobic bacteria.,Paracetamol,Calpol,Epilepsy
+Daflon,GSK,108.03,15,91.83,10 tablets,No,"Drowsiness, diarrhea",Bacterial infections,Used to treat high blood pressure and prevent heart attacks.,Diosmin,Daflon,Anxiety
+Erythrocin,Sanofi,324.2,20,259.36,30 tablets,Yes,"Blurred vision, anxiety",Neuropathic pain,Commonly used pain reliever and fever reducer.,Erythromycin,Erythrocin,Epilepsy
+Fucidin,GSK,547.49,20,437.99,20 tablets,No,"Dry mouth, fatigue",Fever and pain relief,An antibiotic used to treat various infections.,Fusidic Acid,Fucidin,Hypertension
+Glucophage,Martin Dow,344.92,10,310.43,10 tablets,No,"Dry mouth, fatigue",GERD,Antibiotic effective against anaerobic bacteria.,Metformin,Glucophage,Infections
+Hydryllin,Abbott,319.52,20,255.62,30 tablets,Yes,"Dry mouth, fatigue",Motion sickness,An antibiotic used to treat various infections.,Aminophylline,Hydryllin,Hypertension
+Isoptin,Bayer,750.01,5,712.51,10 tablets,No,"Stomach pain, rash",Neuropathic pain,Commonly used pain reliever and fever reducer.,Verapamil,Isoptin,Hypertension
+Ketorolac,Sanofi,442.38,15,376.02,20 tablets,No,"Blurred vision, anxiety",Gastrointestinal infections,Commonly used pain reliever and fever reducer.,Ketorolac,Ketorolac,Asthma
+Lorazepam,Abbott,446.54,5,424.21,20 tablets,Yes,"Stomach pain, rash",Bacterial infections,An antibiotic used to treat various infections.,Lorazepam,Lorazepam,Hypertension
+Myteka,Abbott,182.05,10,163.85,30 tablets,Yes,"Insomnia, constipation",Gastrointestinal infections,Effective for treating nerve pain and seizures.,Montelukast,Myteka,Asthma
+Norvasc,Getz Pharma,214.4,10,192.96,30 tablets,No,"Blurred vision, anxiety",Gastrointestinal infections,Reduces inflammation and pain in the body.,Amlodipine,Norvasc,Anxiety
+Ornisid,Bayer,473.85,10,426.47,20 tablets,Yes,"Dry mouth, fatigue",GERD,An antibiotic used to treat various infections.,Ornidazole,Ornisid,Pain
+Preterax,GSK,626.71,5,595.37,20 tablets,Yes,"Nausea, dizziness, headache",Hypertension,Commonly used pain reliever and fever reducer.,Indapamide,Preterax,Epilepsy
+Questran,Martin Dow,693.08,5,658.43,10 tablets,No,"Insomnia, constipation",Fever and pain relief,Reduces inflammation and pain in the body.,Cholestyramine,Questran,Depression
+Rabeprazole,Novartis,758.55,15,644.77,10 tablets,No,"Insomnia, constipation",Inflammation,Commonly used pain reliever and fever reducer.,Rabeprazole,Rabeprazole,Depression
+Sertraline,Pfizer,192.57,5,182.94,20 tablets,No,"Nausea, dizziness, headache",Motion sickness,Effective for treating nerve pain and seizures.,Sertraline,Sertraline,Hypertension
+Tegretol,Martin Dow,459.32,10,413.39,20 tablets,Yes,"Drowsiness, diarrhea",Bacterial infections,Commonly used pain reliever and fever reducer.,Carbamazepine,Tegretol,Diabetes
+Ulsanic,Abbott,658.1,20,526.48,20 tablets,No,"Insomnia, constipation",Fever and pain relief,Effective for treating nerve pain and seizures.,Sucralfate,Ulsanic,Infections
+Voltaren,Bayer,712.94,5,677.29,10 tablets,No,"Stomach pain, rash",Diabetes,An antibiotic used to treat various infections.,Diclofenac,Voltaren,Pain
+Warfarin,Getz Pharma,212.48,20,169.98,10 tablets,Yes,"Stomach pain, rash",Fever and pain relief,Effective for treating nerve pain and seizures.,Warfarin,Warfarin,Depression
+Xalatan,Bayer,480.78,5,456.74,30 tablets,Yes,"Blurred vision, anxiety",Fever and pain relief,Effective for treating nerve pain and seizures.,Latanoprost,Xalatan,Asthma
+Yaz,GSK,258.81,20,207.05,10 tablets,No,"Blurred vision, anxiety",Diabetes,Antibiotic effective against anaerobic bacteria.,Drospirenone,Yaz,Pain
+Zanidip,Getz Pharma,680.44,15,578.37,10 tablets,No,"Blurred vision, anxiety",Diabetes,An antibiotic used to treat various infections.,Lercanidipine,Zanidip,Infections
